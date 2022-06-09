@@ -10,7 +10,7 @@
 
 ---
 
-# The project Final Result ML
+# The project Final Result
 
 ### Project 1 (Challenge got 3.75 out of 4)
 ![image](https://user-images.githubusercontent.com/46154514/172779918-35cf8c61-b638-440c-80be-181b4e21ebe1.png)
