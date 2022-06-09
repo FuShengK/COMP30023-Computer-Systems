@@ -1,8 +1,8 @@
 **The University of Melbourne**
 
 # Table of Contents
-1. [-- Project Background](#project-background)
-2. [-- Reference List](#reference-list)
+1. [Project Background](#project-background)
+2. [Reference List](#reference-list)
 
 ---
 # Computer Systems
